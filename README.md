@@ -5,7 +5,7 @@ This repo is based on [ziliHarvee's repo](https://github.com/ziliHarvey/Lucas-Ka
 The "vanilla" algorithm for tracking. Detailed derivation can be referred to [Lucas-Kanade 20 Years On: A Unifying Framework](https://www.ri.cmu.edu/pub_files/pub3/baker_simon_2002_3/baker_simon_2002_3.pdf). This tracker runs around 36 Hz on my local machine.    
 **Files included:**     
 /data/carseq.npy  
-/src/LucasKanade.py  
+/src/LucasKanadeHenVicImprovements.py 
 /src/testCarSequence.py  
 **Run**
 ```
